@@ -1,6 +1,8 @@
 # Hello there, I'm Joaquin Ignacio Swears Salinas! 👋
+
+
 <div align="center">
-![Profile Image](https://github.com/Jswears/Jswears/assets/106037859/17af59b7-9423-4859-90e8-62eca00ff19e)
+<img src="https://github.com/Jswears/Jswears/assets/106037859/501e7222-b3dc-4f04-98cf-e616abab561e" width=50% height=50%>
 </div>
 
 I'm a Junior Fullstack Developer with a passion for creating web applications that solve real-world problems. I'm enthusiastic about learning and enjoy working on diverse projects that challenge my skills and creativity.
