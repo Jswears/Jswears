@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Joaquin Ignacio Swears Salinas
+<img width="1584" height="396" alt="Your paragraph text(1)" src="https://github.com/user-attachments/assets/03a9e73c-f516-419c-8689-30cd331c7ab2" />
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ae3f2e95-e46e-4ec4-bd51-4021032753cb" width="320" alt="Joaquin Ignacio Swears Salinas" />
