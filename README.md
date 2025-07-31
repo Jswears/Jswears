@@ -1,65 +1,116 @@
-# Hello there, I'm Joaquin Ignacio Swears Salinas! 👋
+# 👋 Hello, I'm Joaquin Ignacio Swears Salinas
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ae3f2e95-e46e-4ec4-bd51-4021032753cb" width="320" alt="Joaquin Ignacio Swears Salinas" />
+</p>
+
+I'm a Junior Cloud & Automation Engineer focused on simplifying cloud infrastructure with Python, AWS, and automation tools. I build scripts and tools that reduce costs, improve visibility, and make operations more efficient.
+
+Always learning. Always building. Open to roles in cloud, DevOps, or backend automation.
+
+---
+
+## ☁️ What I Do
+
+- Write Python scripts to automate and simplify cloud operations  
+- Build tools to monitor resources, reduce costs, and improve visibility  
+- Work with AWS services like EC2, CloudWatch, IAM  
+- Apply DevOps principles through hands-on projects  
+- Exploring Docker and Terraform to deepen infrastructure skills
+
+---
+
+## 🔧 Technologies & Tools
 
 <div align="center">
-<img src="https://github.com/Jswears/Jswears/assets/106037859/501e7222-b3dc-4f04-98cf-e616abab561e" width=50% height=50%>
+	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
+	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"/></code>
+	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash"/></code>
+	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/></code>
+	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/></code>
+	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/></code>
+	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/></code>
 </div>
 
-I'm a Junior Fullstack Developer with a passion for creating web applications that solve real-world problems. I'm enthusiastic about learning and enjoy working on diverse projects that challenge my skills and creativity.
+---
 
-## 🔧 Technologies and Tools
+## 📜 AWS Certifications
 
 <div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
+  <a href="https://www.credly.com/badges/3f9436ff-7de0-431c-8e33-659ce0896adb/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/aws-certified-solutions-architect-associate.png" width="120" alt="AWS SAA Badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/557001ac-0ee3-424a-ae12-0ef324b464cb/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/684f85c0-e11c-4d94-9c6f-7a38d8efb631/aws-certified-cloud-practitioner.png" width="120" alt="AWS CCP Badge" />
+  </a>
 </div>
 
-## 🚀 Projects
+<p align="center">
+  <b>Official AWS Certifications:</b><br>
+  • Solutions Architect – Associate<br>
+  • Cloud Practitioner<br>
+  (Verified via <a href="https://www.credly.com/users/joaquin-ignacio-swears-salinas/badges#credly">Credly</a>)
+</p>
 
-Here are some of the projects I've worked on:
+---
 
-- [VetApp](https://vetappwecare.netlify.app/login): A fullstack web application that connects pet owners with veterinarians. (Tech: React, Node.js, Express, MongoDB)
-- [Trackify](https://habit-tracker.adaptable.app/): An app to help you track your habits, dailies, and to-do's. (Tech: EJS, Node.js, Express, MongoDB)
-- [DOM Manipulation Game](https://jswears.github.io/unknownChronicles/): A fun game where you click to defeat enemies. (Tech: HTML, CSS, JavaScript)
-- [Spotify-Clone](https://espotifai-clone.netlify.app/): A project replicating the Spotify interface. (Tech: React, Node.js, Express, MongoDB)
+## 🚀 Featured Projects
 
-***But if you always want to be up to date, do not forget to take look at my Portfolio Website.***
+### 🔹 [AWS EC2 Cost Monitor](https://github.com/Jswears/aws-cost-monitor)
+> Python tool that scans EC2 instances, fetches CPU metrics from CloudWatch, identifies idle instances, and sends WhatsApp alerts using Twilio.
 
-## 🌱 Education
+- 📊 Uses Boto3 to interact with EC2 and CloudWatch  
+- 🧠 Detects underused resources to reduce AWS costs  
+- 📎 CLI-friendly: works with region and CPU threshold options  
+- 💬 Optional alerts via Twilio WhatsApp API  
+- 📝 Saves results in JSON for auditing/reporting  
+- ✅ Simulates real-world infrastructure cost optimization workflow  
+- 🔍 Great for demonstrating automation, cloud monitoring, and scripting
 
-- **Full Stack Web Developer** - Ironhack, Remote (May 2023 — August 2023)
-  - Intensive, Industry-Driven Curriculum
-  - Solid Base in Full-Stack Web Development
-  - Problem-Solving & Agile Development Skills
-  - Launching a Dynamic Career in Tech
+> Tech: Python, AWS (EC2, CloudWatch), Boto3, Twilio, dotenv, argparse
 
-- **English Course** - International House Brisbane, Australia (2017)
+---
+
+## 🎓 Education
+
+- **Full Stack Web Developer** – Ironhack (May–Aug 2023)  
+  - 400+ hours of intensive coding  
+  - Strong foundation in frontend, backend, and APIs  
+  - Currently specializing in **cloud and automation**
+
+### 📚 Currently Learning
+- Advanced Python scripting  
+- Docker for containerization  
+- Terraform for infrastructure as code
+
+---
+
+## 🌍 Languages
+
+- Spanish (Native) 🇨🇱  
+- English (Fluent) 🇺🇸  
+- German (Fluent) 🇩🇪  
+
+---
 
 ## 📫 Contact
 
-- **Location:** Hamburg, Germany
-- **Email:** ji.swearssalinas@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/joaquin-ignacio-swears-salinas-9a4947284/)
-- **Portfolio:** [Portfolio Website](https://joaquinswears.netlify.app/)
+- **Email:** joaquinsw.salinas@gmail.com  
+- **LinkedIn:** [linkedin.com/in/joaquinswears](https://www.linkedin.com/in/joaquinswears/)  
+- **Portfolio:** [joaquinswears.com](https://joaquinswears.com/)  
+- **Location:** Currently in Hamburg, open to relocate or work remotely  
+- **Work Eligibility:** Full EU work rights (Dual Chilean-German passport)
 
-## 🤝 Let's Connect
+---
 
-I'm always open to networking, collaborating on projects, and discussing web development. Feel free to reach out—I'd love to connect with you!
+## 🎒 Fun Facts
 
-## 😄 Fun Facts
+- I’ve lived in Chile 🇨🇱, Australia 🇦🇺, and Germany 🇩🇪 — and speak all 3 languages  
+- I play guitar 🎸 and used to study classical double bass 🎻  
+- I love hiking, forests, and exploring nature 🌋  
+- When I’m not coding, I unwind with music or games 🎮
 
-- I've lived in Chile, Australia and Germany which has allowed to achieve fluency in English and German (of course, next to my native language which is Spanish).
-- I love to play music, at the moment guitar but when I was younger I used to study double-bass and I still miss it, so, eventually I'm going to buy myself a new one.
-- I love going on hikes, seeing the nature, forests, volcanoes, mountains.
-- In my free time I also enjoy playing videogames.
+---
 
-Thanks for visiting my GitHub profile! Don't forget to check out my projects and connect with me on LinkedIn and GitHub. Let's build amazing things together! 🚀
+Thanks for stopping by! Let’s connect, collaborate, or build something together. I'd be very happy about it.
