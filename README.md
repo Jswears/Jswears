@@ -45,20 +45,26 @@ Always learning. Always building. Open to roles in cloud, DevOps, or backend aut
 ## 📜 AWS Certifications
 
 <div align="center">
-  <a href="https://www.credly.com/badges/3f9436ff-7de0-431c-8e33-659ce0896adb/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/aws-certified-solutions-architect-associate.png" width="120" alt="AWS SAA Badge" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/557001ac-0ee3-424a-ae12-0ef324b464cb/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/684f85c0-e11c-4d94-9c6f-7a38d8efb631/aws-certified-cloud-practitioner.png" width="120" alt="AWS CCP Badge" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="220px">
+        <a href="https://www.credly.com/badges/3f9436ff-7de0-431c-8e33-659ce0896adb/public_url" target="_blank">
+          <img width="110" alt="AWS SAA Badge" src="https://github.com/user-attachments/assets/4fdae776-ad5c-4691-a1b7-4d2746b4c40e" title="Issued: Nov 25, 2023 – Exp: Nov 25, 2026" />
+        </a>
+        <div><strong>AWS Solutions Architect</strong><br><small>(Associate)</small></div>
+      </td>
+      <td align="center" width="220px">
+        <a href="https://www.credly.com/badges/557001ac-0ee3-424a-ae12-0ef324b464cb/public_url" target="_blank">
+          <img width="110" alt="AWS CCP Badge" src="https://github.com/user-attachments/assets/eb5051be-84b3-4ae8-8f99-0b4fffafd34b" title="Issued: Aug 26, 2021 – Exp: Aug 26, 2024" />
+        </a>
+        <div><strong>AWS Cloud Practitioner</strong></div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
-  <b>Official AWS Certifications:</b><br>
-  • Solutions Architect – Associate<br>
-  • Cloud Practitioner<br>
-  (Verified via <a href="https://www.credly.com/users/joaquin-ignacio-swears-salinas/badges#credly">Credly</a>)
+  <i>Verified via <a href="https://www.credly.com/users/joaquin-ignacio-swears-salinas/badges#credly" target="_blank">Credly</a></i>
 </p>
 
 ---
