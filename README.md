@@ -112,7 +112,7 @@ Always learning. Always building. Open to roles in cloud, DevOps, or backend aut
 
 - **Email:** joaquinsw.salinas@gmail.com  
 - **LinkedIn:** [linkedin.com/in/joaquinswears](https://www.linkedin.com/in/joaquinswears/)  
-- **Portfolio:** [joaquinswears.com](https://joaquinswears.com/)  
+- **Portfolio:** [joaquinswears.com](https://www.joaquinswears.com/)  
 - **Location:** Currently in Hamburg, open to relocate or work remotely  
 - **Work Eligibility:** Full EU work rights (Dual Chilean-German passport)
 
